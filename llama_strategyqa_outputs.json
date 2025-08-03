@@ -1,0 +1,27 @@
+[
+  {
+    "prompt": "Question: Is Mixed martial arts totally original from Roman Colosseum games?\nAnswer:",
+    "output": "Question: Is Mixed martial arts totally original from Roman Colosseum games?\nAnswer: No, Mixed martial arts is not totally original from Roman Colosseum games. While the Roman Colosseum games did feature various forms of combat, including gladiatorial combat, the concept of mixed martial arts as we know it today is a more modern development. The Roman Colosseum games were a form of entertainment that involved various forms of combat, including gladiatorial combat, animal fights, and other forms of violence. However, the rules and regulations of these games were not",
+    "gold": false
+  },
+  {
+    "prompt": "Question: Is the cuisine of Hawaii suitable for a vegan?\nAnswer:",
+    "output": "Question: Is the cuisine of Hawaii suitable for a vegan?\nAnswer: Yes, the cuisine of Hawaii is suitable for a vegan. Hawaiian cuisine is a fusion of different cultures, including Asian, American, and Polynesian, which offers a variety of plant-based options. Here are some reasons why:\n1. Fresh produce: Hawaii is known for its tropical climate, which allows for a wide variety of fresh fruits and vegetables to be grown locally. This means that you can find a wide range of fresh produce, including tropical fruits like pineapples, mangoes, and",
+    "gold": false
+  },
+  {
+    "prompt": "Question: Is capturing giant squid in natural habitat impossible with no gear?\nAnswer:",
+    "output": "Question: Is capturing giant squid in natural habitat impossible with no gear?\nAnswer: Yes, it is impossible to capture a giant squid in its natural habitat without any gear. Giant squid are deep-sea creatures that live in the oxygen-poor waters of the abyssal zone, where the pressure is extreme and the light is scarce. They are also highly mobile and can swim quickly to escape predators or capture prey. Without any gear, it would be extremely difficult to locate and capture a giant squid in its natural habitat.\n\nHowever, it's worth noting that scientists have successfully captured giant squid",
+    "gold": true
+  },
+  {
+    "prompt": "Question: Did the Royal Air Force fight in the Boxer Rebellion?\nAnswer:",
+    "output": "Question: Did the Royal Air Force fight in the Boxer Rebellion?\nAnswer: No, the Royal Air Force (RAF) did not fight in the Boxer Rebellion. The Boxer Rebellion was a anti-foreigner and anti-Christian uprising that took place in China from 1899 to 1901. The rebellion was put down by an international coalition of troops, including British, French, German, Italian, Japanese, Russian, Austrian, and American forces, but the Royal Air Force did not exist at that time. The RAF was formed in 1918, more",
+    "gold": false
+  },
+  {
+    "prompt": "Question: Would someone in Mumbai refer to Solanum melongena as an eggplant?\nAnswer:",
+    "output": "Question: Would someone in Mumbai refer to Solanum melongena as an eggplant?\nAnswer: Yes, they would. Solanum melongena is the botanical name for the eggplant. In many parts of the world, including India, it is commonly referred to as an eggplant. The term \"eggplant\" is often used in informal contexts, and it is widely recognized and understood in many cultures. Therefore, someone in Mumbai would likely refer to Solanum melongena as an eggplant. \n\nNote: The term \"eggplant\" is more commonly used in informal contexts",
+    "gold": false
+  }
+]
